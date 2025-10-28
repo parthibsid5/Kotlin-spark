@@ -3,6 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+LearnKotlin.iml
+.idea
+*.iml
+*.iwl
 ### Kotlin ###
 .kotlin
 

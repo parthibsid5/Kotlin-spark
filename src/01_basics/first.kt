@@ -1,3 +1,5 @@
+package `01_basics`
+
 fun main() {
 	val firstname ="Rahul"; //read only
     var val1:Boolean =true;
